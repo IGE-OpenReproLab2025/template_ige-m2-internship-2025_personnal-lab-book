@@ -1,4 +1,5 @@
-# template_ige-m2-internship-2025_personnal-lab-book
+# My personnal Lab Book 
+
 Template repository for storing your work on a daily basis. 
 
 We recommand that you store in this repository one notebook per day and per task, following an explicit naming convention, as for instance '2025-03-12_testing-this-new-method.ipynb'. 
