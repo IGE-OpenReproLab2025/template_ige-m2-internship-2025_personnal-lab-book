@@ -8,6 +8,6 @@ For this repository to be used as a lab book, you should not modify your noteboo
 
 You may also store here .py file  containings functions and objects which you often use but that are not yet packaged in specific libraries. 
 
-Make you to commit to this repository at the end of each day of work. 
+Make sure to commit to this repository at the end of each day of work. 
 
 The material gathered in this space will then be used for preparing the material you would like to share with your collaborators on the project. 
